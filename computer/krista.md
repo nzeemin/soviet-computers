@@ -33,3 +33,4 @@
 ## Ссылки
 
 * [Статья в Википедии](http://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B0)
+* [Emuverse](http://www.emuverse.ru/wiki/%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B0)

@@ -33,6 +33,10 @@
 * Г.А.Батьков, О.А.Батьков. [Компьютер УКНЦ: справочник практика](http://zx-pk.ru/showpost.php?p=759733&postcount=1). — Москва: «Компьютика», 1996. — 112 с.
 * [О модернизации отечественных КУВТ «Корвет» и УКНЦ](https://web.archive.org/web/20100405030026/http://www.edu.ru/db-mon/mo/Data/d_96/l155.html) — документ Минобразования РФ № 155/28 от 13 мая 1996 г.
 
+## Производные компьютеры
+* **Электроника МС 0512** (упоминается в ТО на прототип УКНЦ) — упрощённый вариант УКНЦ: меньше размеры, нет интерфейса кассеты ПЗУ. По-видимому, не запускался в серию.
+* [**Электроника 0511 УДС**](https://web.archive.org/web/20141205150544/http://fincoins.spb.ru/oldpc/0511/0511-uds.html) (устройство документальной связи) — плата контроллера установлена внутри. По-видимому, машина использовалась в качестве телеграфного аппарата.
+
 ## Ссылки
 * [Википедия ру](https://ru.wikipedia.org/wiki/Электроника_МС_0511), [Wikipedia en](https://en.wikipedia.org/wiki/UKNC)
 * [Сайт Арсения Гордина](http://uknc.narod.ru/)
@@ -41,12 +45,12 @@
 * [УКНЦ ROM disasm](http://www.emuverse.ru/wiki/%D0%A3%D0%9A%D0%9D%D0%A6_ROM_disasm) — листинги дизассемблированного ПЗУ, от Alex_K
 * [Схема и плата УКНЦ в формате PCAD 2002](http://micklab.ru/MC0511.htm), отрисовал Mick
 
-## Эмуляторы
+### Эмуляторы
 * [Эмулятор УКНЦ — EmuStudio](https://zx-pk.ru/threads/18027-emulyator-uknts-emustudio.html) (Windows) от Titus
 * [UKNCBTL](https://github.com/nzeemin/ukncbtl) (Windows), [UKNCBTL online](https://nzeemin.github.io/ukncbtl-online.html)
 * [Драйвер uknc](https://github.com/mamedev/mame/blob/master/src/mame/ussr/uknc.cpp) в эмуляторе MESS, нерабочий
 
-## Производные компьютеры
-* **Электроника МС 0512** (упоминается в ТО на прототип УКНЦ) — упрощённый вариант УКНЦ: меньше размеры, нет интерфейса кассеты ПЗУ. По-видимому, не запускался в серию.
-* [**Электроника 0511 УДС**](https://web.archive.org/web/20141205150544/http://fincoins.spb.ru/oldpc/0511/0511-uds.html) (устройство документальной связи) — плата контроллера установлена внутри. По-видимому, машина использовалась в качестве телеграфного аппарата.
-
+### Видео
+* [Плейлист "УКНЦ - главный учебный ПК в СССР", Vlad Tru](https://www.youtube.com/playlist?list=PLiWLTRSJ9VmvQVA93Dbrp72_ow4OFiON2)
+* [Электроника МС 0511 - Советский учебный двухпроцессорный монстр](https://youtu.be/dVenGboVfpE)
+* ["UKNC PDP-11 Assembly" playlist, by ChibiAkumas](https://www.youtube.com/playlist?list=PLp_QNRIYljFosVKGRrGD1dFCXrcmBhdvS)
